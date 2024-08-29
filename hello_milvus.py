@@ -72,6 +72,8 @@ print(first_embedding_of_first_entry)
 print(entities[0]['picfile'])
 print("f--------------------")
 print("f-----------hello milvus---------")
+print("f-----------hello milvus smas---------")
+print("f-----------hello milvus smas  fetch---------")
 #exit(0)
 
 fmt = "\n=== {:30} ===\n"
