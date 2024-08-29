@@ -36,7 +36,7 @@ entities=[]
 model = VGG16(weights='imagenet')
 i=0
 print("f-1----------------------")
-print("f-2----------------------")
+print("f-2-------------------ee---")
 
 for filename in os.listdir(directory):
     if filename.endswith('.jpg') or filename.endswith('.png') or filename.endswith('.jpeg'):
