@@ -35,7 +35,7 @@ entities=[]
 #model = VGG16(weights='imagenet', include_top=False, pooling='avg')
 model = VGG16(weights='imagenet')
 i=0
-print("f-1----------------------")
+print("f-1---------------wwww-------")
 print("f-2-------------------ee---")
 
 for filename in os.listdir(directory):
