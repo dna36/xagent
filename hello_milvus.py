@@ -68,7 +68,7 @@ print("f-----------------------")
 print(first_embedding_of_first_entry)
 print(entities[0]['picfile'])
 print("f--------------------")
-
+print("f-----------hello milvus---------")
 #exit(0)
 
 fmt = "\n=== {:30} ===\n"
